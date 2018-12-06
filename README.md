@@ -1,5 +1,7 @@
 # 590PR Final_Project
 
+# Each teammates' commitment
+
 # Explanation for all files in github
 ## Monte Carlo.ppt: This is the powerpoint for the presentation.
 
