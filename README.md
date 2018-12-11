@@ -1,7 +1,9 @@
 # 590PR Final_Project
 
 # Each teammates' commitment
-
+### Xianzhuo Cao: Choosing the code and understanding it thoroughly, then make some improvements in the algorithm and the code. Coding in the simulation part.  
+### Xiaoxin Wang: Comimg up with the idea fo Gomoku. Searching for appropriate algorithm and code for the simulation. Coding in the simulation part.
+### Wendi Zhang:  Searching for the appropriate algorithm and code, do the testing for the code and the simulation. Making the powerpoint for the presentation.
 # Explanation for all files in github
 ### Monte Carlo.ppt: This is the powerpoint for the presentation.
 ### play_with_AI.py : This is the python program in which you can play with a AI with tree depth of 3
