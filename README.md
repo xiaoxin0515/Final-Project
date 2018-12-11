@@ -24,9 +24,6 @@
 ## Simulation's variables of uncertainty
 ### Different first move, Different AI, Additional rules 
 
-
-List and describe your simulation's variables of uncertainty (where you're using pseudo-random number generation). For each such variable, how did you decide the range and probability distribution to use?  Do you think it's a good representation of reality?
-
 ## Hypothesis or hypotheses before running the simulation:
 ### The best first move might be placing stone in the center. 
 ### The further your first move away from the center, the less winning rate you will get.
