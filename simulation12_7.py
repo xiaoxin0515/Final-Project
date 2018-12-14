@@ -332,8 +332,9 @@ def game_win(success_num, list, x, y):
     of the last stone which is (x,y), then in 4 different directions(vertical, horizontal, left diagonal and right diagonal), we set
     the stones into 2 parts according to the last stone and calculate the number of stones of these 2 parts seperately, finally,
     we add these two numbers to see whether it reaches success_num.
-    #  >>> game_win(5,{(1,1),(2,1),(3,1),(4,1),(5,1)},5,1)
-    # 'True'
+
+    >>> game_win(5,{(1,1),(2,1),(3,1),(4,1),(5,1)},5,1)
+    True
 
     :param success_num: define the rule of the game, if success_num equals 4, it means one player succeeds when he got 4 in a row;
     if success_num is 5, it represents five stones in a row means success.
@@ -477,6 +478,6 @@ def main():
     print("tiegame is " + str(tiegame))
 
 
-main()
-# if __name__ == '__main__':
-#      main()
+# main()
+if __name__ == '__main__':
+     main()
