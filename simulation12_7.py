@@ -333,6 +333,7 @@ def game_win(success_num, list, x, y):
     the stones into 2 parts according to the last stone and calculate the number of stones of these 2 parts seperately, finally,
     we add these two numbers to see whether it reaches success_num.
 
+    a doctest when one side have all the positions of (1,1),(2,1),(3,1),(4,1),(5,1), it wins
     >>> game_win(5,{(1,1),(2,1),(3,1),(4,1),(5,1)},5,1)
     True
 
